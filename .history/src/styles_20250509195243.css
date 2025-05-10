@@ -1,0 +1,27 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #333;
+  color: hsl(200, 100%, 90%);
+  max-width: 400px;
+  padding: 1rem;
+  margin: 0 auto;
+}
+
+.to-do-list {
+  text-align: center;
+  margin-top: 100px;
+}
+
+button {
+  font-weight: bold;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.5 ease;
+}
