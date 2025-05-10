@@ -27,6 +27,7 @@ button {
 
 .add-button {
   font-size: 1.6rem;
+
   background-color: rgba(17, 240, 65, 0.4);
   border: 1px solid rgba(17, 240, 65, 0.95);
 }
